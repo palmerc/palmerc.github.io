@@ -6,6 +6,7 @@ excerpt: "Ultrasound imaging is a highly valuable diagnostic tool. It is increas
 date: 2015-10-21
 venue: '2015 IEEE International Ultrasonics Symposium (IUS)'
 paperurl: 'http://palmerc.github.io/files/SmartScan-ius.pdf'
+slidesurl: 'http://palmerc.github.io/files/SmartScan-ius-poster.pdf'
 citation: #
 ---
 
