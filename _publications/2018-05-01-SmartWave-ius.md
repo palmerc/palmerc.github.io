@@ -6,6 +6,7 @@ excerpt: "This work describes the implementation of software plane-wave beamform
 date: 2018-05-01
 venue: '2016 IEEE International Ultrasonics Symposium (IUS)'
 paperurl: 'http://palmerc.github.io/files/SmartWave-ius.pdf'
+slidesurl: 'http://palmerc.github.io/files/SmartWave-ius-slides.pdf'
 citation: #
 ---
 
