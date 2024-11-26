@@ -86,6 +86,10 @@ Skills
   * CI/CD 
   * git
 
+CVEs
+=====
+* [CVE-2022-40903](https://nvd.nist.gov/vuln/detail/CVE-2022-40903)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
